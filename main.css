@@ -1,0 +1,41 @@
+* {
+	border:black 2px;
+}
+html{
+	background-image:url("images/aisle.jpg");
+	background-size: 100%;
+	background-repeat: none;
+}
+.shlist{
+	width:400px;	
+	height:100%;
+	margin:auto;
+	padding-top:15px;
+	background-color:whitesmoke;
+	font-family:papyrus;
+	border-radius:20px;
+
+}
+.header{
+	height:100px;
+	border-bottom: 10px black;
+	font-size:2em;
+	text-align:center;
+
+}
+ul.items{
+	min-height:200px;
+	background-color:teal;
+}
+.itemList{
+	padding:5px 0px 0px 15px;
+}
+.listItem{
+	
+}
+button{
+	border-radius:5px;
+	height:35px;
+	width:100px;
+	font-size:1.25em;
+}
